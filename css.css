@@ -1,0 +1,89 @@
+button{
+    font-size: 60px;
+    height:250px;
+    width:200px;
+    margin-left: 100px;
+    cursor: pointer;
+    border-radius: 60px;
+    background-color:hsl(39, 50%, 73%);
+}
+
+.button-1:hover{background-color:hsl(38, 36%, 55%)}
+.button-2:hover{background-color: hsl(38, 36%, 55%);}
+.button-3:hover{background-color: hsl(38, 36%, 55%);}
+.button-4:hover{background-color: hsl(38, 36%, 55%);}
+.button-5:hover{background-color: hsl(38, 36%, 55%);}
+.button-6:hover{background-color: hsl(38, 36%, 55%);}
+.button-7:hover{background-color: hsl(38, 36%, 55%);}
+
+.button-2{
+    margin-left: 60px;
+}
+
+.button-3{
+    margin-left: 60px;
+}
+
+.button-6{
+    margin-top: 100px;
+    margin-left: 530px;
+}
+
+.button-7{
+    margin-left: 60px;
+}
+
+.button-4{
+    margin-left: 60px;
+}
+
+.button-5{
+    margin-left: 60px;
+}
+
+.ayur{
+    font-size: 60px;
+    margin-top: -350px;
+    margin-left: 140px;
+}
+
+.arya{
+    font-size: 60px;
+    margin-top: -130px;
+    margin-left: 400px;
+}
+
+.anushka{
+    font-size: 60px;
+    margin-top: -130px;
+    margin-left: 870px;
+}
+
+.akshara{
+    font-size: 60px;
+    margin-top: -130px;
+    margin-left: 620px;
+}
+
+.akshay{
+    font-size: 60px;
+    margin-top: -130px;
+    margin-left: 1150px;
+}
+
+.ashwin{
+    font-size: 60px;
+    margin-left: 535px;
+    margin-top: 280px;
+}
+
+.aryan{
+    font-size: 60px;
+    margin-top: -130px;
+    margin-left: 810px;
+}
+
+    
+
+
+
